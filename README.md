@@ -178,11 +178,8 @@ The Power BI dashboard provides an interactive view of loan portfolio performanc
 
 ### Dashboard Preview
 
-![Banking Credit Risk Analytics Dashboard](dashboard/banking_credit_risk_dashboard.png)
+![Banking Credit Risk Analytics Dashboard](Dashboard/dashboard_screenshot (1).png)
 
-> **Note:** Make sure the screenshot file is uploaded to GitHub at:
->
-> `dashboard/banking_credit_risk_dashboard.png`
 
 ---
 
