@@ -1,5 +1,5 @@
 
-# 🏦 Banking Credit Risk Analytics
+#  Banking Credit Risk Analytics
 
 ### End-to-End Data Analytics Project using Python, MySQL & Power BI
 
@@ -7,7 +7,7 @@ A data analytics project analyzing **32,000+ loan records** to identify default 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Loan defaults are a major risk for financial institutions. Understanding customer characteristics, loan attributes, income levels, employment history, credit history, and debt burden can help banks identify potential credit-risk patterns.
 
@@ -24,7 +24,7 @@ The analysis combines **Python for data cleaning and feature engineering, SQL fo
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 1. Analyze customer and loan characteristics.
 2. Calculate overall loan default rate.
@@ -37,7 +37,7 @@ The analysis combines **Python for data cleaning and feature engineering, SQL fo
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project contains **32,000+ loan records after data cleaning**.
 
@@ -60,7 +60,7 @@ The project contains **32,000+ loan records after data cleaning**.
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The data preparation process was performed using **Python and Pandas**.
 
@@ -83,7 +83,7 @@ The data preparation process was performed using **Python and Pandas**.
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Seven business-oriented features were created using `pd.cut()`.
 
@@ -99,7 +99,7 @@ Seven business-oriented features were created using `pd.cut()`.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Dataset
@@ -129,7 +129,7 @@ Business Insights
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Python
 
@@ -172,7 +172,7 @@ Used for:
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of loan portfolio performance and credit-risk patterns.
 
@@ -183,7 +183,7 @@ The Power BI dashboard provides an interactive view of loan portfolio performanc
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 
 | KPI                           |     Value |
 | ----------------------------- | --------: |
@@ -196,7 +196,7 @@ The Power BI dashboard provides an interactive view of loan portfolio performanc
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### 1. Overall Default Rate
 
@@ -224,7 +224,7 @@ The average interest rate across the analyzed loans was approximately **11.02%**
 
 ---
 
-## 🗄️ SQL Analysis
+##  SQL Analysis
 
 The project includes SQL queries covering both basic and advanced analytical concepts.
 
@@ -260,7 +260,7 @@ Window Functions
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Banking-Credit-Risk-Analytics/
@@ -288,7 +288,7 @@ Banking-Credit-Risk-Analytics/
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 This project demonstrates practical Data Analyst skills including:
 
@@ -308,7 +308,7 @@ This project demonstrates practical Data Analyst skills including:
 
 ---
 
-## 💼 Business Value
+##  Business Value
 
 The analysis provides a structured view of customer and loan characteristics associated with observed default patterns.
 
@@ -324,7 +324,7 @@ The insights can support analytical use cases such as:
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 **Domain:** Banking / Financial Services
 **Project:** Loan & Credit Risk Analytics
@@ -336,7 +336,7 @@ The insights can support analytical use cases such as:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shashikant Ghule**
 
